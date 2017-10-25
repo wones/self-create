@@ -15,8 +15,7 @@ int main()
 	}
 }*/
 /*
-
-//用C语言实现3D心
+//用Ç语言实现3D心
 #include<stdio.h>
 #include<math.h>
 	float f(float x,float y,float z)
@@ -58,7 +57,7 @@ int main()
 */
 /*
 
-//用C语言编写红色的资料，可用ps打开
+//用Ç语言编写红色的资料，可用PS打开
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif
